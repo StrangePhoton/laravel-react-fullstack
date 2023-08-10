@@ -9,12 +9,9 @@ export default function GuestLayout(){
     }
     return(
         <div>
-        
             <div>
-            For Guest Users Only
-            <Outlet/>
+                <Outlet/>
             </div>
-            
         </div>
 
     )

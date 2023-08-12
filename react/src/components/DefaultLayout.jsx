@@ -1,5 +1,5 @@
 import {Link, Navigate, Outlet} from "react-router-dom";
-import {useStateContext} from "../contexts/ContextProvider";
+import {useStateContext} from "../context/ContextProvider";
 import axiosClient from "../axios-client.js";
 import {useEffect} from "react";
 

@@ -4,7 +4,7 @@ import Login from "./views/Login";
 import Signup from "./views/Signup";
 import Users from "./views/Users";
 import NotFound from "./views/NotFound";
-import Dashboard from "./views/Dashboard";
+import Dashboard from "./Dashboard";
 import DefaultLayout from "./components/DefaultLayout";
 import GuestLayout from "./components/GuestLayout";
 
